@@ -272,3 +272,7 @@ repeatable way.
 - [MDN: innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 - [MDN: appendChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 - [MDN: createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+
+blahblah won't submit unless I write something in the readMe, but the correction is in the tests.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-hand-written-templates'>Javascript Hand Written Templates</a> on Learn.co and start learning to code for free.</p>
