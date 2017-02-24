@@ -53,11 +53,11 @@ Okay, we did it. Let's add another paragraph for the commenter's name, since we 
 </div>
 ```
 
-Great! Now we have another comments, so let's go ahead and get back in that HTML and add it.
+Great! Now we have another comment, so let's go ahead and get back in that HTML and add it.
 
 ![frustrated Jordan](http://i.giphy.com/LJ1XTfxW60Luw.gif)
 
-Yeah, just kidding. I'm not going to make you do that. Editing comments directly in the HTML is obviously unsustainable, for a lot of reasons, not the least of which is that were *definitely* not giving every visitor to our blog the ability to directly edit our HTML, but also, we have better things to do with our lives. We have at least a dozen episodes of the Bachelorette to catch up on, we don't have time for this.
+Yeah, just kidding. I'm not going to make you do that. Editing comments directly in the HTML is obviously unsustainable, for a lot of reasons, not the least of which is that we're *definitely* not giving every visitor to our blog the ability to directly edit our HTML, but also, we have better things to do with our lives. We have at least a dozen episodes of the Bachelorette to catch up on, we don't have time for this.
 
 Let's make JavaScript do the work for us.
 
